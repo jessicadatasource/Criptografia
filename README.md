@@ -22,17 +22,4 @@ Bibliotecas:
 
 Automação:
 O projeto tem uma pequena automação para startar o jupyter notebook. Basta clicar no arquivo "Clique aqui" que o programa inicializa.
-
-Obs: Para iniciar o projeto pela automação é necessário setar o caminho da pasta dentro do arquivo "activate_jn.bat" "clique aqui"e nos campos abaixo:
-
-==============================
-*o aquivo (activate_jn.bat) está dentro da pasta: api_dados\Scripts
-
-------------------------------
-set VIRTUAL_ENV=C:\Criptografia\api_dados\Scripts
-.
-.
-.
-cd "C:\Criptografia\api_dados"
-
-==============================
+Saiba mais em: <https://github.com/jessicadatasource/Automacao_Start_Jupyter_Notebook>
